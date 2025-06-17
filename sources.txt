@@ -1,0 +1,9 @@
+src/chatapp/model/Message.java
+src/chatapp/config/Config.java
+src/chatapp/user/User.java
+src/chatapp/user/Admin.java
+src/chatapp/db/DBManager.java
+src/chatapp/api/ChatParticipant.java
+src/chatapp/server/ClientHandler.java
+src/chatapp/server/Server.java
+src/chatapp/client/ClientApp.java
